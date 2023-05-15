@@ -3,7 +3,6 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import json
-import pycountry_convert as pc
 # datetime oprations
 from datetime import timedelta
 # to get web contents
